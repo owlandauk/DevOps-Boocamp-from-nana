@@ -1,4 +1,4 @@
-# DevOps-Boocamp-from-nana
+# DevOps Bootcamp from Nana
 
 A comprehensive DevOps bootcamp covering cloud computing concepts, technologies, and essential skills for modern software development and operations.
 
